@@ -342,7 +342,7 @@ test: voeg unit tests toe voor AI module
 
 ### Contact Informatie
 - **Project Owner:** Redouan Dannouni
-- **Email:** r.dannouni@jdw.nl
+- **Email:** dai@johandewittscholengroep.nl
 - **School:** Johan de Witt Scholengroep
 
 ### Support Kanalen
