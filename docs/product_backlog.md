@@ -1,7 +1,7 @@
 # Product Backlog - AI-Platform Johan de Witt
 
 ## Project Informatie
-**Product Owner:** Anne Segeren
+**Product Owner:** Anne Segeren  
 **Scrum Master:** Redouan Dannouni  
 **Development Team:** Laurence Leupe & Redouan Dannouni  
 **Capaciteit:** 10 uur per week  
