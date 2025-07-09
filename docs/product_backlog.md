@@ -3,7 +3,7 @@
 ## Project Informatie
 **Product Owner:** Redouan Dannouni  
 **Scrum Master:** [Naam]  
-**Development Team:** Solo ontwikkelaar  
+**Development Team:** Laurence Leupe & Redouan Dannouni  
 **Capaciteit:** 10 uur per week  
 **Sprint duur:** 2 weken  
 **Totale projectduur:** September 2024 - Juli 2025 (44 weken)
