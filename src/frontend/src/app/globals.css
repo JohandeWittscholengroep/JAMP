@@ -1,1 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+/* Fluent-achtige focus ring */
+:root {
+  --ring: 0 0% 0%;
+}
+* { outline-color: rgb(0 120 212 / 55%); }
