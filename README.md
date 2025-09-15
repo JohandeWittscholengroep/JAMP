@@ -45,15 +45,15 @@ Het AI-Platform is ontwikkeld voor de Johan de Witt Scholengroep en biedt een ec
 
 ### Systeem Componenten
 ┌─────────────────┐ ┌─────────────────┐
-│ Web Interface │◄───►│ API/Orchestr. │
-│ (Frontend) │ │ (SemanticKernel)│
+│ Web Interface   │◄───►│ API/Orchestr. │
+│ (Frontend)      │     │ (SemanticKernel)│
 └─────────────────┘ └─────────────────┘
-│ │
-▼ ▼
+       │                   │
+       ▼                   ▼
 ┌─────────────────┐ ┌─────────────────┐
-│ Azure SQL DB │ │ Azure AI Foundry│
-│ Leerdoelen & │ │ Agents & Models │
-│ Logdata │ │ (OpenAI/Custom) │
+│ Azure SQL DB    │ │ Azure AI Foundry │
+│ Leerdoelen &    │ │ Agents & Models  │
+│ Logdata         │ │ (OpenAI/Custom)  │
 └─────────────────┘ └─────────────────┘
 
 ---
@@ -62,14 +62,13 @@ Het AI-Platform is ontwikkeld voor de Johan de Witt Scholengroep en biedt een ec
 ai-platform/
 ├── README.md
 ├── src/
-│ ├── agents/ # AI-assistenten (les, toets, coach, analytics)
-│ ├── orchestrator/ # Semantic Kernel of LangChain implementatie
-│ ├── api/ # Azure Functions API
-│ ├── frontend/ # PowerApps / Web UI
-│ └── monitoring/ # Logging, dashboards, analytics
-├── docs/ # Documentatie
-└── infra/ # Azure infrastructuur (IaC)
-
+│   ├── agents/        # AI-assistenten (les, toets, coach, analytics)
+│   ├── orchestrator/  # Semantic Kernel of LangChain implementatie
+│   ├── api/           # Azure Functions API
+│   ├── frontend/      # PowerApps / Web UI
+│   └── monitoring/    # Logging, dashboards, analytics
+├── docs/              # Documentatie
+└── infra/             # Azure infrastructuur (IaC)
 
 ---
 
